@@ -1,5 +1,9 @@
 Stick a fork in me
 <<<<<<< HEAD
+This is my message
+Raphael's message
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Zayne Jamil
 =======
@@ -18,3 +22,4 @@ Hi everyone -- usman :)
 =======
 >>>>>>> upstream/main
 >>>>>>> cf4cef230e82a6cab11303b0be9428be1fe7c2f8
+>>>>>>> f9df78e58c4946d3bf1a3278086437c7d984a2b7
