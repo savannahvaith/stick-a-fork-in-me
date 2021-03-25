@@ -1,0 +1,1 @@
+This is the text for this text file. Trialing git fetch and git clone commands for this lab. 
